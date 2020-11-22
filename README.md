@@ -36,7 +36,7 @@
     - Use 'addEventListener()' method to add event by click to navigate between sections  
     - Use 'preventDefault()' method to prevent the primary function of the anchor link from working
     - Use 'scrollIntoView()' method to navigate between sections smoothly
-    - Appending 'ul' with 'fragment'
+    - Appending 'ul' with 'fragment' to add 'li' all at once
     - Use 'addEventListener()' method to add event by scroll to navigate between sections  
     - Use 'getBoundingClientRect()' to get dimensions of the sections
     - Check if the section in viewport or no, to add or remove '.your-active-class' class to sections
