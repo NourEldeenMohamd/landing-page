@@ -23,7 +23,7 @@
 
 ## Additions:-
 -> HTML
-    - Adding two sections (section 4 & section 5)
+    - Adding one section(section 4)
 -> CSS
     - Modify '.navbar__menu ul' class [text-align - width - margin]
     - Adding 'active' class for anchor links
