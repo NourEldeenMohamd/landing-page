@@ -26,6 +26,7 @@
     - Adding one section(section 4)
 -> CSS
     - Modify '.navbar__menu ul' class [text-align - width - margin]
+    - Modify '.menu__link' class [padding]
     - Adding 'active' class for anchor links
     - Changing background color for 'your-active-class' class
 -> JS
